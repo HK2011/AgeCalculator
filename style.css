@@ -8,7 +8,7 @@
 header {
   background-color: #00293b;
   padding: 5px 50px;
-  height: 16.5vh;
+  height: 20vh;
 
   display: flex;
   justify-content: space-between;
@@ -18,9 +18,7 @@ header {
 header img {
   width: 100px;
 }
-marquee {
-  background-color: coral;
-}
+
 
 .nav {
   list-style-type: none;
