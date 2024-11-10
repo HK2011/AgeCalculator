@@ -5,11 +5,11 @@
 }
 
 /* Header Navigation Section */
-
 header {
   background-color: #00293b;
   padding: 5px 50px;
   height: 16.5vh;
+
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -17,6 +17,9 @@ header {
 
 header img {
   width: 100px;
+}
+marquee {
+  background-color: coral;
 }
 
 .nav {
@@ -49,7 +52,6 @@ header img {
 .top_left_section {
   width: 75%;
 }
-
 
 .top_right_section {
   width: 25%;
